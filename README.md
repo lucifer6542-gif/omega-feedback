@@ -1,5 +1,7 @@
 # Code for Paper D
 
+All scripts are in `Paper D.zip` (unzip it to get folders 01–06 as described below).
+
 Scripts accompanying Y. Kim, *Pauli Weight and the Quantum Grandfather Paradox: Neutral Parties and Four-Party Coherence*.
 Repository: https://github.com/lucifer6542-gif/omega-feedback (code for Papers A, B, and C: https://github.com/lucifer6542-gif/S).
 
